@@ -1,7 +1,7 @@
 ---
 date: 1621271668000
 description: These two terms refer to different parts of an application. They are more used in web development, but can be used in development of applications in another platforms. In this article I will talk about frontend and backend in the perspective of web development.
-tags: [backend, frontend]
+tags: [Backend, Frontend]
 title: Backend x Frontend
 ---
 
